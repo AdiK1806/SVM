@@ -27,9 +27,12 @@ Sample 9: Accuracy = 0.8703703703703703
 Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
 --------------------------------------------------------------------------------
 Sample 10: Accuracy = 0.8148148148148148
-Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decisi![download](https://user-images.githubusercontent.com/88049441/233165194-b227d260-a2cc-4777-b8cf-0360410cef1e.png)
-on_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
+Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
 --------------------------------------------------------------------------------
 
+![download](https://user-images.githubusercontent.com/88049441/233166601-cd049e3f-6e40-49a9-9afd-85101dc642bc.png)
+
+
+![download](https://user-images.githubusercontent.com/88049441/233166529-1e5d7cae-4eda-4c1f-9653-78f7139f8565.png)
 
 
